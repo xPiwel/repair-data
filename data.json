@@ -1,0 +1,783 @@
+{
+  "categories": ["Tous", "iPhone", "iPad", "Mac", "Apple Watch", "AirPods"],
+  "devices": [
+
+    {
+      "id": "iphone17e",
+      "name": "iPhone 17e",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2026",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "269€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "199€" },
+        { "cat": "Caméra", "name": "Caméra avant (TrueDepth)", "ac": "99€", "ooc": "199€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "529€" }
+      ]
+    },
+    {
+      "id": "iphone17pm",
+      "name": "iPhone 17 Pro Max",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2025",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "489€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "244€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "135€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "249€" },
+        { "cat": "Caméra", "name": "Caméra avant (TrueDepth)", "ac": "99€", "ooc": "199€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "799€" }
+      ]
+    },
+    {
+      "id": "iphone17p",
+      "name": "iPhone 17 Pro",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2025",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "405€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "212€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "135€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "249€" },
+        { "cat": "Caméra", "name": "Caméra avant (TrueDepth)", "ac": "99€", "ooc": "199€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "749€" }
+      ]
+    },
+    {
+      "id": "iphone17air",
+      "name": "iPhone Air",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2025",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "405€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "159€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "119€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "169€" },
+        { "cat": "Caméra", "name": "Caméra avant (TrueDepth)", "ac": "99€", "ooc": "199€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "699€" }
+      ]
+    },
+    {
+      "id": "iphone17",
+      "name": "iPhone 17",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2025",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "339€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "159€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "169€" },
+        { "cat": "Caméra", "name": "Caméra avant (TrueDepth)", "ac": "99€", "ooc": "199€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "599€" }
+      ]
+    },
+
+    {
+      "id": "iphone16pm",
+      "name": "iPhone 16 Pro Max",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "489€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "244€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "135€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "799€" },
+        { "cat": "Caméra", "name": "Caméra avant", "ac": "99€", "ooc": "189€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "898€" }
+      ]
+    },
+    {
+      "id": "iphone16p",
+      "name": "iPhone 16 Pro",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "405€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "212€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "135€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "749€" },
+        { "cat": "Caméra", "name": "Caméra avant", "ac": "99€", "ooc": "189€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "835€" }
+      ]
+    },
+    {
+      "id": "iphone16plus",
+      "name": "iPhone 16 Plus",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "405€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "244€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "449€" },
+        { "cat": "Caméra", "name": "Caméra avant", "ac": "99€", "ooc": "169€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "129€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "762€" }
+      ]
+    },
+    {
+      "id": "iphone16",
+      "name": "iPhone 16",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "339€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "212€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "399€" },
+        { "cat": "Caméra", "name": "Caméra avant", "ac": "99€", "ooc": "169€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "129€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "689€" }
+      ]
+    },
+    {
+      "id": "iphone16e",
+      "name": "iPhone 16e",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2025",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "269€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "199€" },
+        { "cat": "Caméra", "name": "Caméra avant (TrueDepth)", "ac": "99€", "ooc": "199€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "529€" }
+      ]
+    },
+
+    {
+      "id": "iphone15pm",
+      "name": "iPhone 15 Pro Max",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2023",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "489€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "244€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "799€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "898€" }
+      ]
+    },
+    {
+      "id": "iphone15p",
+      "name": "iPhone 15 Pro",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2023",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "405€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "212€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "749€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "835€" }
+      ]
+    },
+    {
+      "id": "iphone15plus",
+      "name": "iPhone 15 Plus",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2023",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "405€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "244€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "449€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "762€" }
+      ]
+    },
+    {
+      "id": "iphone15",
+      "name": "iPhone 15",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2023",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "339€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "212€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "399€" },
+        { "cat": "Connectique", "name": "Connecteur USB-C", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "689€" }
+      ]
+    },
+
+    {
+      "id": "iphone14pm",
+      "name": "iPhone 14 Pro Max",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2022",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "489€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Module arrière (caméra + vitre)", "ac": "99€", "ooc": "670€" },
+        { "cat": "Connectique", "name": "Connecteur Lightning", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "898€" }
+      ]
+    },
+    {
+      "id": "iphone14p",
+      "name": "iPhone 14 Pro",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2022",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "405€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Module arrière (caméra + vitre)", "ac": "99€", "ooc": "603€" },
+        { "cat": "Connectique", "name": "Connecteur Lightning", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "835€" }
+      ]
+    },
+    {
+      "id": "iphone14plus",
+      "name": "iPhone 14 Plus",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2022",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "405€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "244€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "379€" },
+        { "cat": "Connectique", "name": "Connecteur Lightning", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "762€" }
+      ]
+    },
+    {
+      "id": "iphone14",
+      "name": "iPhone 14",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2022",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "339€" },
+        { "cat": "Écran", "name": "Vitre arrière", "ac": "29€", "ooc": "212€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "109€" },
+        { "cat": "Caméra", "name": "Caméra arrière", "ac": "99€", "ooc": "299€" },
+        { "cat": "Connectique", "name": "Connecteur Lightning", "ac": "99€", "ooc": "149€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "689€" }
+      ]
+    },
+
+    {
+      "id": "iphone13pm",
+      "name": "iPhone 13 Pro Max",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2021",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "405€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Caméra", "name": "Module arrière (caméra + vitre)", "ac": "99€", "ooc": "603€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "762€" }
+      ]
+    },
+    {
+      "id": "iphone13p",
+      "name": "iPhone 13 Pro",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2021",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "339€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Caméra", "name": "Module arrière (caméra + vitre)", "ac": "99€", "ooc": "550€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "689€" }
+      ]
+    },
+    {
+      "id": "iphone13",
+      "name": "iPhone 13",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2021",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "339€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Caméra", "name": "Module arrière (caméra + vitre)", "ac": "99€", "ooc": "436€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "536€" }
+      ]
+    },
+    {
+      "id": "iphone13mini",
+      "name": "iPhone 13 mini",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2021",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "279€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Caméra", "name": "Module arrière (caméra + vitre)", "ac": "99€", "ooc": "385€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "449€" }
+      ]
+    },
+
+    {
+      "id": "iphone12pm",
+      "name": "iPhone 12 Pro Max",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2020",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "405€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Caméra", "name": "Module arrière (caméra + vitre)", "ac": "99€", "ooc": "603€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "762€" }
+      ]
+    },
+    {
+      "id": "iphone12p",
+      "name": "iPhone 12 Pro",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2020",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "339€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Caméra", "name": "Module arrière (caméra + vitre)", "ac": "99€", "ooc": "550€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "689€" }
+      ]
+    },
+    {
+      "id": "iphone12",
+      "name": "iPhone 12",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2020",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "339€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Caméra", "name": "Module arrière (caméra + vitre)", "ac": "99€", "ooc": "436€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "536€" }
+      ]
+    },
+    {
+      "id": "iphone12mini",
+      "name": "iPhone 12 mini",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2020",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "279€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Caméra", "name": "Module arrière (caméra + vitre)", "ac": "99€", "ooc": "385€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "449€" }
+      ]
+    },
+
+    {
+      "id": "iphone11pm",
+      "name": "iPhone 11 Pro Max",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2019",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "405€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "762€" }
+      ]
+    },
+    {
+      "id": "iphone11p",
+      "name": "iPhone 11 Pro",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2019",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "339€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "689€" }
+      ]
+    },
+    {
+      "id": "iphone11",
+      "name": "iPhone 11",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2019",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "239€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "449€" }
+      ]
+    },
+
+    {
+      "id": "iphonexsmax",
+      "name": "iPhone XS Max",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2018",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "405€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "762€" }
+      ]
+    },
+    {
+      "id": "iphonexs",
+      "name": "iPhone XS",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2018",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "339€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "689€" }
+      ]
+    },
+    {
+      "id": "iphonexr",
+      "name": "iPhone XR",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2018",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "239€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "449€" }
+      ]
+    },
+    {
+      "id": "iphonex",
+      "name": "iPhone X",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2017",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "339€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "99€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "689€" }
+      ]
+    },
+    {
+      "id": "iphone8plus",
+      "name": "iPhone 8 Plus",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2017",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "209€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "79€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "449€" }
+      ]
+    },
+    {
+      "id": "iphone8",
+      "name": "iPhone 8",
+      "category": "iPhone",
+      "icon": "📱",
+      "color": "#1c1c1e",
+      "year": "2017",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "29€", "ooc": "185€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "79€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "99€", "ooc": "449€" }
+      ]
+    },
+
+    {
+      "id": "ipadpro13",
+      "name": "iPad Pro 13\" (M4)",
+      "category": "iPad",
+      "icon": "🟦",
+      "color": "#1c3a5e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "49€", "ooc": "1170€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "229€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "149€", "ooc": "1170€" }
+      ]
+    },
+    {
+      "id": "ipadpro11",
+      "name": "iPad Pro 11\" (M4)",
+      "category": "iPad",
+      "icon": "🟦",
+      "color": "#1c3a5e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "49€", "ooc": "992€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "209€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "149€", "ooc": "992€" }
+      ]
+    },
+    {
+      "id": "ipadair13",
+      "name": "iPad Air 13\" (M2)",
+      "category": "iPad",
+      "icon": "🟦",
+      "color": "#1c3a5e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "49€", "ooc": "700€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "174€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "149€", "ooc": "700€" }
+      ]
+    },
+    {
+      "id": "ipadair11",
+      "name": "iPad Air 11\" (M2)",
+      "category": "iPad",
+      "icon": "🟦",
+      "color": "#1c3a5e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "49€", "ooc": "543€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "139€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "149€", "ooc": "543€" }
+      ]
+    },
+    {
+      "id": "ipadmini7",
+      "name": "iPad mini 7 (A17 Pro)",
+      "category": "iPad",
+      "icon": "🟦",
+      "color": "#1c3a5e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "49€", "ooc": "425€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "139€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "149€", "ooc": "425€" }
+      ]
+    },
+    {
+      "id": "ipad10",
+      "name": "iPad 10ème génération",
+      "category": "iPad",
+      "icon": "🟦",
+      "color": "#1c3a5e",
+      "year": "2022",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "49€", "ooc": "400€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "139€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "149€", "ooc": "400€" }
+      ]
+    },
+
+    {
+      "id": "mbp16m4",
+      "name": "MacBook Pro 16\" (M4 Pro/Max)",
+      "category": "Mac",
+      "icon": "💻",
+      "color": "#1a1a2e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran complet", "ac": "99€", "ooc": "899€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "249€" },
+        { "cat": "Clavier", "name": "Remplacement clavier / top case", "ac": "99€", "ooc": "549€" },
+        { "cat": "Autre", "name": "Carte mère (logicboard)", "ac": "99€", "ooc": "1299€+" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "299€", "ooc": "2499€" }
+      ]
+    },
+    {
+      "id": "mbp14m4",
+      "name": "MacBook Pro 14\" (M4/Pro/Max)",
+      "category": "Mac",
+      "icon": "💻",
+      "color": "#1a1a2e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran complet", "ac": "99€", "ooc": "749€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "249€" },
+        { "cat": "Clavier", "name": "Remplacement clavier / top case", "ac": "99€", "ooc": "499€" },
+        { "cat": "Autre", "name": "Carte mère", "ac": "99€", "ooc": "1099€+" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "299€", "ooc": "1999€" }
+      ]
+    },
+    {
+      "id": "mba15m3",
+      "name": "MacBook Air 15\" (M3)",
+      "category": "Mac",
+      "icon": "💻",
+      "color": "#1a1a2e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran complet", "ac": "99€", "ooc": "649€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "199€" },
+        { "cat": "Clavier", "name": "Remplacement clavier / top case", "ac": "99€", "ooc": "449€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "299€", "ooc": "1499€" }
+      ]
+    },
+    {
+      "id": "mba13m3",
+      "name": "MacBook Air 13\" (M3)",
+      "category": "Mac",
+      "icon": "💻",
+      "color": "#1a1a2e",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran complet", "ac": "99€", "ooc": "549€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "199€" },
+        { "cat": "Clavier", "name": "Remplacement clavier / top case", "ac": "99€", "ooc": "399€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "299€", "ooc": "1299€" }
+      ]
+    },
+
+    {
+      "id": "aws10",
+      "name": "Apple Watch Series 10",
+      "category": "Apple Watch",
+      "icon": "⌚",
+      "color": "#1a2a1a",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran (46mm)", "ac": "69€", "ooc": "349€" },
+        { "cat": "Écran", "name": "Remplacement écran (42mm)", "ac": "69€", "ooc": "299€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "119€" },
+        { "cat": "Autre", "name": "Remplacement complet (46mm)", "ac": "79€", "ooc": "499€" }
+      ]
+    },
+    {
+      "id": "awultra2",
+      "name": "Apple Watch Ultra 2",
+      "category": "Apple Watch",
+      "icon": "⌚",
+      "color": "#1a2a1a",
+      "year": "2023",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran", "ac": "69€", "ooc": "634€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "119€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "79€", "ooc": "634€" }
+      ]
+    },
+    {
+      "id": "aws9",
+      "name": "Apple Watch Series 9",
+      "category": "Apple Watch",
+      "icon": "⌚",
+      "color": "#1a2a1a",
+      "year": "2023",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran (45mm, Alu)", "ac": "69€", "ooc": "459€" },
+        { "cat": "Écran", "name": "Remplacement écran (41mm, Alu)", "ac": "69€", "ooc": "391€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "119€" },
+        { "cat": "Autre", "name": "Remplacement complet (45mm)", "ac": "79€", "ooc": "459€" }
+      ]
+    },
+    {
+      "id": "awse2",
+      "name": "Apple Watch SE (2ème gén.)",
+      "category": "Apple Watch",
+      "icon": "⌚",
+      "color": "#1a2a1a",
+      "year": "2022",
+      "repairs": [
+        { "cat": "Écran", "name": "Remplacement écran (44mm)", "ac": "69€", "ooc": "323€" },
+        { "cat": "Écran", "name": "Remplacement écran (40mm)", "ac": "69€", "ooc": "278€" },
+        { "cat": "Batterie", "name": "Remplacement batterie", "ac": "Gratuit ✓", "ooc": "119€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "79€", "ooc": "323€" }
+      ]
+    },
+
+    {
+      "id": "airpods4anc",
+      "name": "AirPods 4 (ANC)",
+      "category": "AirPods",
+      "icon": "🎧",
+      "color": "#2a1a2a",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écouteur", "name": "Remplacement AirPod (unité)", "ac": "Gratuit ✓", "ooc": "89€" },
+        { "cat": "Boîtier", "name": "Remplacement boîtier de charge", "ac": "Gratuit ✓", "ooc": "89€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "229€" }
+      ]
+    },
+    {
+      "id": "airpodspro2",
+      "name": "AirPods Pro 2ème génération",
+      "category": "AirPods",
+      "icon": "🎧",
+      "color": "#2a1a2a",
+      "year": "2022",
+      "repairs": [
+        { "cat": "Écouteur", "name": "Remplacement AirPod (unité)", "ac": "Gratuit ✓", "ooc": "119€" },
+        { "cat": "Boîtier", "name": "Remplacement boîtier MagSafe", "ac": "Gratuit ✓", "ooc": "119€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "299€" }
+      ]
+    },
+    {
+      "id": "airpodspro1",
+      "name": "AirPods Pro 1ère génération",
+      "category": "AirPods",
+      "icon": "🎧",
+      "color": "#2a1a2a",
+      "year": "2019",
+      "repairs": [
+        { "cat": "Écouteur", "name": "Remplacement AirPod (unité)", "ac": "Gratuit ✓", "ooc": "119€" },
+        { "cat": "Boîtier", "name": "Remplacement boîtier", "ac": "Gratuit ✓", "ooc": "119€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "279€" }
+      ]
+    },
+    {
+      "id": "airpodsmax2",
+      "name": "AirPods Max (USB-C)",
+      "category": "AirPods",
+      "icon": "🎧",
+      "color": "#2a1a2a",
+      "year": "2024",
+      "repairs": [
+        { "cat": "Écouteur", "name": "Coussin auriculaire (paire)", "ac": "Gratuit ✓", "ooc": "89€" },
+        { "cat": "Serre-tête", "name": "Serre-tête / headband", "ac": "Gratuit ✓", "ooc": "89€" },
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "N/C" }
+      ]
+    }
+  ]
+}
