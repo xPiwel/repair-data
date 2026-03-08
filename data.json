@@ -814,12 +814,12 @@
       "color": "#2a1a2a",
       "year": "2025",
       "repairs": [
-        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non eligible ❌", "ooc": "99€" },
-        { "cat": "Perdu ou manquant", "name": "Boîtier de charge", "ac": "Non eligible ❌", "ooc": "109€" },
+        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non éligible ❌", "ooc": "99€" },
+        { "cat": "Perdu ou manquant", "name": "Boîtier de charge", "ac": "Non éligible ❌", "ooc": "109€" },
         { "cat": "Endommagé", "name": "AirPod gauche ou droit", "ac": "29€", "ooc": "99€" },
         { "cat": "Endommagé", "name": "Boîtier de charge", "ac": "29€", "ooc": "99€" },
         { "cat": "Batterie", "name": "Remplacement batterie (boîtier)", "ac": "Gratuit ✓", "ooc": "59€" },
-        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non eligible ❌" }
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non éligible ❌" }
       ]
     },
     {
@@ -830,12 +830,12 @@
       "color": "#2a1a2a",
       "year": "2024",
       "repairs": [
-        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non eligible ❌", "ooc": "79€" },
-        { "cat": "Perdu ou manquant", "name": "Boîtier de charge", "ac": "Non eligible ❌", "ooc": "89€" },
+        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non éligible ❌", "ooc": "79€" },
+        { "cat": "Perdu ou manquant", "name": "Boîtier de charge", "ac": "Non éligible ❌", "ooc": "89€" },
         { "cat": "Endommagé", "name": "AirPod gauche ou droit", "ac": "29€", "ooc": "79€" },
         { "cat": "Endommagé", "name": "Boîtier de charge", "ac": "29€", "ooc": "79€" },
         { "cat": "Batterie", "name": "Remplacement batterie (boîtier)", "ac": "Gratuit ✓", "ooc": "59€" },
-        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non eligible ❌" }
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non éligible ❌" }
       ]
     },
     {
@@ -846,12 +846,12 @@
       "color": "#2a1a2a",
       "year": "2024",
       "repairs": [
-        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non eligible ❌", "ooc": "79€" },
-        { "cat": "Perdu ou manquant", "name": "Boîtier de charge", "ac": "Non eligible ❌", "ooc": "79€" },
+        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non éligible ❌", "ooc": "79€" },
+        { "cat": "Perdu ou manquant", "name": "Boîtier de charge", "ac": "Non éligible ❌", "ooc": "79€" },
         { "cat": "Endommagé", "name": "AirPod gauche ou droit", "ac": "29€", "ooc": "79€" },
         { "cat": "Endommagé", "name": "Boîtier de charge", "ac": "29€", "ooc": "69€" },
         { "cat": "Batterie", "name": "Remplacement batterie (boîtier)", "ac": "Gratuit ✓", "ooc": "59€" },
-        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non eligible ❌" }
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non éligible ❌" }
       ]
     },
     {
@@ -862,12 +862,12 @@
       "color": "#2a1a2a",
       "year": "2022",
       "repairs": [
-        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non eligible ❌", "ooc": "99€" },
-        { "cat": "Perdu ou manquant", "name": "Boîtier de charge", "ac": "Non eligible ❌", "ooc": "109€" },
+        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non éligible ❌", "ooc": "99€" },
+        { "cat": "Perdu ou manquant", "name": "Boîtier de charge", "ac": "Non éligible ❌", "ooc": "109€" },
         { "cat": "Endommagé", "name": "AirPod gauche ou droit", "ac": "29€", "ooc": "99€" },
         { "cat": "Endommagé", "name": "Boîtier de charge", "ac": "29€", "ooc": "99€" },
         { "cat": "Batterie", "name": "Remplacement batterie (boîtier)", "ac": "Gratuit ✓", "ooc": "59€" },
-        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non eligible ❌" }
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non éligible ❌" }
       ]
     },
     {
@@ -878,12 +878,12 @@
       "color": "#2a1a2a",
       "year": "2019",
       "repairs": [
-        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non eligible ❌", "ooc": "99€" },
-        { "cat": "Perdu ou manquant", "name": "Boîtier de charge", "ac": "Non eligible ❌", "ooc": "109€" },
+        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non éligible ❌", "ooc": "99€" },
+        { "cat": "Perdu ou manquant", "name": "Boîtier de charge", "ac": "Non éligible ❌", "ooc": "109€" },
         { "cat": "Endommagé", "name": "AirPod gauche ou droit", "ac": "29€", "ooc": "99€" },
         { "cat": "Endommagé", "name": "Boîtier de charge", "ac": "29€", "ooc": "99€" },
         { "cat": "Batterie", "name": "Remplacement batterie (boîtier)", "ac": "Gratuit ✓", "ooc": "59€" },
-        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non eligible ❌" }
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non éligible ❌" }
       ]
     },
     {
@@ -894,14 +894,14 @@
       "color": "#2a1a2a",
       "year": "2021",
       "repairs": [
-        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non eligible ❌", "ooc": "79€" },
-        { "cat": "Perdu ou manquant", "name": "Boîtier de charge (MagSafe)", "ac": "Non eligible ❌", "ooc": "89€" },
-        { "cat": "Perdu ou manquant", "name": "Boîtier de charge (Lightning)", "ac": "Non eligible ❌", "ooc": "79€" },
+        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non éligible ❌", "ooc": "79€" },
+        { "cat": "Perdu ou manquant", "name": "Boîtier de charge (MagSafe)", "ac": "Non éligible ❌", "ooc": "89€" },
+        { "cat": "Perdu ou manquant", "name": "Boîtier de charge (Lightning)", "ac": "Non éligible ❌", "ooc": "79€" },
         { "cat": "Endommagé", "name": "AirPod gauche ou droit", "ac": "29€", "ooc": "79€" },
         { "cat": "Endommagé", "name": "Boîtier de charge (MagSafe)", "ac": "29€", "ooc": "79€" },
         { "cat": "Endommagé", "name": "Boîtier de charge (Lightning)", "ac": "29€", "ooc": "69€" },
         { "cat": "Batterie", "name": "Remplacement batterie (boîtier)", "ac": "Gratuit ✓", "ooc": "59€" },
-        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non eligible ❌" }
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non éligible ❌" }
       ]
     },
     {
@@ -912,14 +912,14 @@
       "color": "#2a1a2a",
       "year": "2019",
       "repairs": [
-        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non eligible ❌", "ooc": "79€" },
-        { "cat": "Perdu ou manquant", "name": "Boîtier de charge (sans fil)", "ac": "Non eligible ❌", "ooc": "89€" },
-        { "cat": "Perdu ou manquant", "name": "Boîtier de charge (Lightning)", "ac": "Non eligible ❌", "ooc": "69€" },
+        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non éligible ❌", "ooc": "79€" },
+        { "cat": "Perdu ou manquant", "name": "Boîtier de charge (sans fil)", "ac": "Non éligible ❌", "ooc": "89€" },
+        { "cat": "Perdu ou manquant", "name": "Boîtier de charge (Lightning)", "ac": "Non éligible ❌", "ooc": "69€" },
         { "cat": "Endommagé", "name": "AirPod gauche ou droit", "ac": "29€", "ooc": "79€" },
         { "cat": "Endommagé", "name": "Boîtier de charge (sans fil)", "ac": "29€", "ooc": "79€" },
         { "cat": "Endommagé", "name": "Boîtier de charge (Lightning)", "ac": "29€", "ooc": "69€" },
         { "cat": "Batterie", "name": "Remplacement batterie (boîtier)", "ac": "Gratuit ✓", "ooc": "59€" },
-        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non eligible ❌" }
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non éligible ❌" }
       ]
     },
     {
@@ -930,12 +930,12 @@
       "color": "#2a1a2a",
       "year": "2016",
       "repairs": [
-        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non eligible ❌", "ooc": "79€" },
-        { "cat": "Perdu ou manquant", "name": "Boîtier de charge", "ac": "Non eligible ❌", "ooc": "89€" },
+        { "cat": "Perdu ou manquant", "name": "AirPod gauche ou droit", "ac": "Non éligible ❌", "ooc": "79€" },
+        { "cat": "Perdu ou manquant", "name": "Boîtier de charge", "ac": "Non éligible ❌", "ooc": "89€" },
         { "cat": "Endommagé", "name": "AirPod gauche ou droit", "ac": "29€", "ooc": "79€" },
         { "cat": "Endommagé", "name": "Boîtier de charge", "ac": "29€", "ooc": "79€" },
         { "cat": "Batterie", "name": "Remplacement batterie (boîtier)", "ac": "Gratuit ✓", "ooc": "59€" },
-        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non eligible ❌" }
+        { "cat": "Autre", "name": "Remplacement complet", "ac": "29€", "ooc": "Non éligible ❌" }
       ]
     },
     {
